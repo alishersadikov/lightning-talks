@@ -27,7 +27,7 @@
 
 ### Monday, October 17th
 
-1.  Alisher Sadikov - Why would you use Ruby frameworks other than Sinatra/Rails
+1.  Alisher Sadikov - Why you would use Ruby frameworks other than Sinatra/Rails
 2.   
 
 ### Tuesday, October 18th
